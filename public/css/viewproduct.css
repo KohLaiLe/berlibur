@@ -1,0 +1,16 @@
+.viewpro-body-container{
+    background-color: rgb(244, 246, 254);
+    height: 94vh;
+}
+
+.viewpro-card-price{
+    color: rgb(223, 87, 87);
+}
+
+.viewpro-btn{
+    width: 100%;
+}
+
+input{
+    width: 100%;
+}

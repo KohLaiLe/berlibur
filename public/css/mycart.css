@@ -1,0 +1,40 @@
+.mycart-body-container{
+    background-color: rgb(244, 246, 254);
+    min-height: 88vh;
+    height: auto;
+}
+
+.mycart-card-title{
+    font-size: larger;
+    font-weight: 600;
+}
+
+.mycart-card-leftside{
+    display: flex;
+    align-items: center;
+}
+
+.qty-edit-btn,
+.remove-item-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.mycart-secondsection-row{
+    display: flex;
+    align-items: center;
+}
+
+.mycart-total-price,
+.mycart-checkout-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.mycart-card-quantity{
+    color: rgb(223, 87, 87);
+}
+
+.mycart-card-name{
+    font-size: larger;
+}

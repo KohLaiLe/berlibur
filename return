@@ -1,0 +1,55 @@
+[33mcommit 78c6e1ceb2756cbcfca3f73ee7cbeea23c3d919f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 475539c 3576b78
+Author: KohLaiLe <randy.wirjadiredja@binus.ac.id>
+Date:   Sat Jan 14 13:08:23 2023 +0700
+
+    merge
+
+[33mcommit 475539ca12c0cea968b727d91847cbbd0dd282c6[m
+Merge: 2d24671 2504069
+Author: KohLaiLe <randy.wirjadiredja@binus.ac.id>
+Date:   Sat Jan 14 13:05:47 2023 +0700
+
+    test
+
+[33mcommit 3576b785f3c1886c4321fe07e7a0c68fbe8b436e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: RafliHaikhal <rafli.haikhal@gmail.com>
+Date:   Mon Jan 9 11:56:09 2023 +0700
+
+    viewproduct sudah ada strukurnya
+
+[33mcommit 90d5ae777b1be40960f248d37c6d4736fa954bc1[m
+Author: RafliHaikhal <rafli.haikhal@gmail.com>
+Date:   Sun Jan 8 22:41:13 2023 +0700
+
+    template mycart udah rapih, home juga udah rapih
+
+[33mcommit 7a6435004ff380ac0ed4bcc6fbbb081759f9282f[m
+Author: RafliHaikhal <rafli.haikhal@gmail.com>
+Date:   Sat Jan 7 20:38:16 2023 +0700
+
+    template ui home udah jadi (tinggal dibikn navbar yang beda2 sesuai role user)
+
+[33mcommit 2d246714c8bd21dd5fb305f1527b2fa138a247a7[m
+Author: KohLaiLe <randy.wirjadiredja@binus.ac.id>
+Date:   Fri Jan 6 23:30:44 2023 +0700
+
+    register selesai
+
+[33mcommit 2504069d0a19930d37d6018ffcde9d8bb7ec8972[m
+Author: RafliHaikhal <rafli.haikhal@gmail.com>
+Date:   Fri Jan 6 23:21:36 2023 +0700
+
+    ui login udah selesai
+
+[33mcommit 0ff638ef694548d1fcbcc348d35300e7453a31b4[m
+Author: KohLaiLe <randy.wirjadiredja@binus.ac.id>
+Date:   Fri Jan 6 21:07:41 2023 +0700
+
+    tambah home page
+
+[33mcommit 7c53cf4e39ff85c4422421760e094fac7ef50076[m
+Author: RafliHaikhal <rafli.haikhal@gmail.com>
+Date:   Fri Jan 6 20:54:53 2023 +0700
+
+    nambahin header

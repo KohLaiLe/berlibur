@@ -1,0 +1,16 @@
+.manage-product-head-table-row,
+.manage-product-head-table-col{
+    background-color: rgba(134, 222, 244, 0.992);
+    border: 1px black solid;
+}
+
+.manage-product-row,
+.manage-product-col{
+    background-color: rgb(221, 221, 221);
+    border: 1px black solid;
+    border-top: 0;
+}
+
+.manage-product-btn{
+    width: 100%;
+}

@@ -1,0 +1,74 @@
+.box {
+    background-color: rgb(209, 209, 209);
+    width: 100%;
+    min-height: 85vh;
+    height: fit-content;
+    padding: 5rem 5rem;
+    display: flex;
+    /*align-items: center;*/
+    justify-content: center;
+}
+
+.box-content{
+    background: #ffffff;
+    box-sizing: border-box;
+    width: 40rem;
+    height: fit-content;
+    padding: 3rem 2rem;
+    border: 1px solid #000000;
+    border-radius: 1.5rem;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4rem;
+}
+
+.form {
+    box-sizing: border-box;
+}
+
+.form-item{
+    padding: 1rem 0;
+}
+
+.form-item > input[type=text],
+.form-item > input[type=email]{
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 0.25rem;
+    outline: none;
+    padding: 0.5rem 1rem;
+    border-radius: 10rem;
+}
+
+label{
+    margin-bottom: 1rem;
+    font-size: 12pt;
+    font-weight: 500;
+}
+
+.form > a {
+    width: 100%;
+    margin-top: 3rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    background: #a91f10;
+    padding: 0.5rem 0;
+    border: 1px solid #a91f10;
+    border-radius: 10rem;
+    color: #ffffff;
+    font-size: 12pt;
+    font-weight: 500;
+    transition: all 500ms;
+}
+
+.form > a:hover{
+    color: #a91f10;
+    border: 1px solid #a91f10;
+    background: #ffffff;
+    transition: all 500ms;
+}

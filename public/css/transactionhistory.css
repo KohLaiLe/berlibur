@@ -1,0 +1,47 @@
+.transaction-history-body-container{
+    background-color: rgb(244, 246, 254);
+    min-height: 88vh;
+    height: fit-content;
+    padding: 5vh 0 10vh 0;
+}
+
+.transaction-history-card{
+    background-color: rgb(240, 240, 240);
+    margin: 0 10% 0 10%;
+}
+
+.transaction-history-card-title{
+    font-size: larger;
+    font-weight: 600;
+}
+
+.transaction-history-card-leftside{
+    display: flex;
+    align-items: center;
+}
+
+.transaction-history-secondsection-row{
+    display: flex;
+    align-items: center;
+}
+
+.transaction-history-total-price,
+.transaction-history-checkout-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.transaction-history-card-quantity,
+.transaction-history-card-price{
+    color: rgb(223, 87, 87);
+}
+
+.transaction-history-card-name{
+    font-size: larger;
+}
+
+.transaction-history-purchase-date,
+.transaction-history-secondsection{
+    padding: 2% 0 2% 7%;
+
+}

@@ -1,0 +1,13 @@
+.home-body-container{
+    background-color: rgb(225, 225, 225);
+}
+
+.home-card-title{
+    font-size: larger;
+    font-weight: 600;
+}
+
+.home-card-leftside{
+    display: flex;
+    justify-content: end;
+}
